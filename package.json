@@ -67,6 +67,7 @@
   "cpu": [
     "x64",
     "arm",
+    "arm64",
     "!mips"
   ],
   "keywords": [
